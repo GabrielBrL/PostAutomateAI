@@ -10,3 +10,4 @@ C:\Users\gabri\repos\PostAutomateAI\PostAutomateAI.AI\obj\Debug\net8.0\PostAutom
 C:\Users\gabri\repos\PostAutomateAI\PostAutomateAI.AI\obj\Debug\net8.0\refint\PostAutomateAI.AI.dll
 C:\Users\gabri\repos\PostAutomateAI\PostAutomateAI.AI\obj\Debug\net8.0\PostAutomateAI.AI.pdb
 C:\Users\gabri\repos\PostAutomateAI\PostAutomateAI.AI\obj\Debug\net8.0\ref\PostAutomateAI.AI.dll
+C:\Users\gabri\repos\PostAutomateAI\PostAutomateAI.AI\obj\Debug\net8.0\PostAutomateAI.AI.sourcelink.json

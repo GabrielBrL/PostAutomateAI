@@ -35,3 +35,4 @@ C:\Users\gabri\repos\PostAutomateAI\PostAutomateAI.Api\obj\Debug\net8.0\refint\P
 C:\Users\gabri\repos\PostAutomateAI\PostAutomateAI.Api\obj\Debug\net8.0\PostAutomateAI.Api.pdb
 C:\Users\gabri\repos\PostAutomateAI\PostAutomateAI.Api\obj\Debug\net8.0\PostAutomateAI.Api.genruntimeconfig.cache
 C:\Users\gabri\repos\PostAutomateAI\PostAutomateAI.Api\obj\Debug\net8.0\ref\PostAutomateAI.Api.dll
+C:\Users\gabri\repos\PostAutomateAI\PostAutomateAI.Api\obj\Debug\net8.0\PostAutomateAI.Api.sourcelink.json

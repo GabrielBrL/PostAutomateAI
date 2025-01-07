@@ -42,3 +42,4 @@ C:\Users\gabri\repos\PostAutomateAI\PostAutomateAI.Client\obj\Debug\net7.0\refin
 C:\Users\gabri\repos\PostAutomateAI\PostAutomateAI.Client\obj\Debug\net7.0\PostAutomateAI.Client.pdb
 C:\Users\gabri\repos\PostAutomateAI\PostAutomateAI.Client\obj\Debug\net7.0\PostAutomateAI.Client.genruntimeconfig.cache
 C:\Users\gabri\repos\PostAutomateAI\PostAutomateAI.Client\obj\Debug\net7.0\ref\PostAutomateAI.Client.dll
+C:\Users\gabri\repos\PostAutomateAI\PostAutomateAI.Client\obj\Debug\net7.0\PostAutomateAI.Client.sourcelink.json
