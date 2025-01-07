@@ -1,0 +1,6 @@
+@PostAutomateAI.Api_HostAddress = http://localhost:5001
+
+GET {{PostAutomateAI.Api_HostAddress}}
+Accept: application/json
+
+###

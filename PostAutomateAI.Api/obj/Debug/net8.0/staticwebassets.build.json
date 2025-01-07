@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1O0qrwkEmdlNMjWcPRdOc02DUoV+dFoGhrGdj/zWfew=",
+  "Source": "PostAutomateAI.Api",
+  "BasePath": "_content/PostAutomateAI.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
